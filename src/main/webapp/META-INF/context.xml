@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+
+    <!-- https://musingsinjava.wordpress.com/2014/11/02/enabling-jsf-2-2-and-cdi-1-2-on-tomcat-8/ -->
+    <Resource name="BeanManager" auth="Container"
+              type="javax.enterprise.inject.spi.BeanManager"
+              factory="org.jboss.weld.resources.ManagerObjectFactory" />
+
+</Context>
