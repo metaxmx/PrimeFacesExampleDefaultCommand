@@ -15,7 +15,7 @@
         <weld.version>3.1.3.Final</weld.version>
         <jsf.version>2.3.9</jsf.version>
         <servletapi.version>4.0.1</servletapi.version>
-        <primefaces.version>7.0</primefaces.version>
+        <primefaces.version>8.0</primefaces.version>
         <maven.compiler.release>${java.version}</maven.compiler.release>
         <maven.compiler.plugin.version>3.8.1</maven.compiler.plugin.version>
     </properties>
